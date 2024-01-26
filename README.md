@@ -4,7 +4,7 @@ Telegram bot to download media from Youtube, Spotify, Tiktok, Twitter, Instagram
 
 ## It took me a lot of time to make this bot, so please give it a star if you like it.
 
-Bot link: [Social-Media-Downloader](https://t.me/Social_Media_Downloaderr_Bot)
+Bot link: [Telegram Bot](https://t.me/labani_downloaderBOT)
 
 ## Features
 

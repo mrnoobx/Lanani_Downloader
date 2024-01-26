@@ -1,0 +1,41 @@
+{
+  "name": "Social-Media-Downloader",
+  "version": "1.0.0",
+  "description": "Telegram bot to download all kinds of media.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krxuv/Social-Media-Downloader.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "Krxuv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Krxuv/Social-Media-Downloader/issues"
+  },
+  "homepage": "https://github.com/Krxuv/Social-Media-Downloader#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "google-sr": "^3.2.1",
+    "network-speed": "^2.1.1",
+    "node-telegram-bot-api": "^0.63.0",
+    "qs": "^6.11.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "spotify-uri": "^4.0.0",
+    "tesseract.js": "^5.0.2",
+    "y2mate-api": "github:krxuv/y2mate-api"
+  }
+}
